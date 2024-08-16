@@ -1,0 +1,171 @@
+.mynav{
+    box-shadow: 0px 3px 0px 0px rgba(207,207,207,0.4);
+-webkit-box-shadow: 0px 3px 0px 0px rgba(207,207,207,0.4);
+-moz-box-shadow: 0px 3px 0px 0px rgba(207,207,207,0.4);
+}
+
+
+.navlinks a {
+    font-weight: bold;
+    font-size: 13px;
+    color: black !important;
+}
+
+.navlogo{
+    margin-left: 200px;
+}
+
+
+.btns{
+    margin-right: 200px;
+}
+.btnstyle{
+    font-weight: bold;
+    padding: 10px 30px;
+    margin-left: 15px ;
+}
+
+.btnstyle2{
+    font-weight: bold;
+    padding: 10px 30px;
+    margin-left: 10px ;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+
+.imgsandtext{
+    margin-top: 130px;
+    margin-bottom: 60px;
+}
+
+#portlink{
+    text-decoration: none;
+    color: blue;
+    font-weight: 600;
+}
+
+
+.logosandtext h1{
+    font-size: 60px;
+    font-weight: 600;
+    color: black;
+}
+
+.logosandtext p{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.logosandtext input {
+    border-color: lightgrey;
+    border-radius: 2px !important  ;
+}
+
+.nfts{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    margin-bottom: 120px;
+}
+
+.nfthead{
+    color: white;
+}
+
+.nfthead h1{
+    font-size: 50px;
+    
+}
+
+.nfthead button{
+    color: black;
+    font-weight: 600;
+    padding: 12px 50px;
+}
+
+.nfthead p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.buybtn{
+    background: green;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: none;
+}
+
+.ratetable{
+    border: 1px solid lightgrey;
+}
+.txt{
+    /* border: 1px solid red; */
+    margin-top: 100px;
+}
+
+.txt h1{
+    font-weight: bold;
+    font-family: CoinbaseSans,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;;
+    -webkit-font-smoothing: antialiased;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.txt p{
+    margin-bottom: 20px;
+    /* padding-right: 100px; */;
+}
+
+
+.txttable{
+    /* border: 1px solid red; */
+    margin-left:300px;
+}
+
+.custom1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width : 769px) {
+    .navlogo{
+        margin-left: 0px;
+    }
+    #navlinks{
+        
+    }
+}

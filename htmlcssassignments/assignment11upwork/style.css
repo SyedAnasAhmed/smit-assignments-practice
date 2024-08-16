@@ -1,0 +1,75 @@
+.appnavbar{
+    position: sticky;
+    top: 0%;
+    z-index: 100;
+    background-color: white;
+}
+.navbottom{
+    position: sticky;
+    top: 10%;
+    z-index: 100;
+    background-color: white;
+}
+.navbottom{
+    display: flex;
+}
+
+.navbottom ul li{
+    list-style: none;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 15px;
+
+}
+
+.navbottom ul{
+    display: flex;
+    justify-content: flex-start;   
+}
+
+.banner1{
+    display: flex;
+}
+
+
+.banner1 h1{
+    margin-top: 20px;
+    font-size: 80px;
+    font-family: Georgia, serif;
+    color: rgba(8, 163, 41, 0.97);
+    font-weight: 500;
+    line-height: 75px;
+    margin-bottom: 15px;
+}
+
+
+.banner1p{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 30px;
+    color: rgba(92, 92, 92, 0.97);
+}
+
+.banner1 button{
+    padding: 8px 23px;
+    background-color:rgba(0, 133, 29, 0.97) ;
+    font-weight: 500;
+}
+
+
+.navbottom ul{
+    padding: 0px;
+}
+
+
+.banner1img{
+    margin-left: 300px;
+}
+
+.banner1p2{
+    margin-top: 70px;
+    color: rgba(171, 171, 171, 0.97);
+    font-size: 18px ;
+    font-weight: 500;
+}
+
